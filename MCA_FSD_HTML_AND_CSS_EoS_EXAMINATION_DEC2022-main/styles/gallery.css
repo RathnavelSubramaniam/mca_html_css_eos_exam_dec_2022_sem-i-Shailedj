@@ -1,0 +1,29 @@
+/*  Styles for header */
+.heading1{
+    background-image:-webkit-linear-gradient(45deg,lightgreen,pink 50%  ,lightgreen);
+    background-image:-moz-linear-gradient(70deg,pink,lightgreen 80%  ,black);
+    background-image: -o-linear-gradient(70deg,pink,pink 50%,black);
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+
+}
+
+/* Styles for images */
+
+.whole_div{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    padding: 10px;
+}
+
+/* styles for Footer */
+
+.footer_para{
+    background-image:-webkit-linear-gradient(45deg,lightgreen,pink 50%  ,lightgreen);
+    background-image:-moz-linear-gradient(70deg,pink,lightgreen 80%  ,black);
+    background-image: -o-linear-gradient(70deg,pink,pink 50%,black);
+    padding: 20px 20px 20px 20px;
+    margin-top: 50px;
+    text-align: center;
+}
